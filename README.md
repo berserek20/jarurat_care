@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-
+In the project directory, you firstly have to run:
+### `npm run server` 
+    then open a new command prompt and go in the current project directory and run:
 ### `npm start`
 
 Runs the app in the development mode.\

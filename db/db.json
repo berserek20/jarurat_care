@@ -1,0 +1,94 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "General Consultation",
+      "description": "Comprehensive health consultation with a licensed physician, covering general health check-ups and medical advice.",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "name": "Dental Cleaning",
+      "description": "Professional teeth cleaning by a licensed dentist to remove plaque and prevent gum disease.",
+      "price": 150
+    },
+    {
+      "id": "3",
+      "name": "Physical Therapy",
+      "description": "Rehabilitation sessions with a certified physical therapist to address musculoskeletal issues and improve mobility.",
+      "price": 75
+    },
+    {
+      "id": "4",
+      "name": "Blood Test Panel",
+      "description": "Complete blood work to assess overall health, including cholesterol levels, blood sugar, and other vital indicators.",
+      "price": 200
+    },
+    {
+      "id": "5",
+      "name": "Vaccination",
+      "description": "Administration of vaccines to prevent infectious diseases, including flu, hepatitis, and more.",
+      "price": 50
+    },
+    {
+      "id": "6",
+      "name": "X-Ray Imaging",
+      "description": "Diagnostic X-ray imaging for bone fractures, dental issues, or internal organ health assessment.",
+      "price": 300
+    },
+    {
+      "id": "7",
+      "name": "MRI Scan",
+      "description": "Magnetic Resonance Imaging (MRI) scan for detailed internal body structure analysis, used to diagnose various conditions.",
+      "price": 1200
+    },
+    {
+      "id": "8",
+      "name": "Cardiology Consultation",
+      "description": "Specialized heart health consultation with a cardiologist, including ECG and echocardiography.",
+      "price": 250
+    },
+    {
+      "id": "9",
+      "name": "Eye Exam",
+      "description": "Comprehensive eye examination to assess vision health and identify conditions like glaucoma or cataracts.",
+      "price": 100
+    },
+    {
+      "id": "10",
+      "name": "Prenatal Care",
+      "description": "Complete prenatal care package including regular check-ups, ultrasound scans, and nutritional counseling for expecting mothers.",
+      "price": 1800
+    },
+    {
+      "id": "11",
+      "name": "Chiropractic Adjustment",
+      "description": "Spinal adjustments and manipulations to relieve pain and improve alignment, performed by a licensed chiropractor.",
+      "price": 90
+    },
+    {
+      "id": "12",
+      "name": "Dermatology Consultation",
+      "description": "Consultation with a dermatologist for skin issues such as acne, rashes, or mole assessments.",
+      "price": 120
+    },
+    {
+      "id": "13",
+      "name": "Nutrition Counseling",
+      "description": "Personalized nutritional advice and diet planning with a certified nutritionist to improve overall health and manage medical conditions.",
+      "price": 80
+    },
+    {
+      "id": "14",
+      "name": "Mental Health Therapy",
+      "description": "Counseling sessions with a licensed therapist to support mental well-being, including cognitive behavioral therapy (CBT).",
+      "price": 100
+    },
+    {
+      "id": "15",
+      "name": "Allergy Testing",
+      "description": "Comprehensive testing to identify allergic reactions to various substances such as pollen, food, and animal dander.",
+      "price": "240"
+    }
+  ]
+}
